@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7x86"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/iText/itextpdf-5.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/jdom-2.0.3/jdom-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Microsoft Forefront TMG Client/TpTrisel2016/librairieTrisel/lib/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
